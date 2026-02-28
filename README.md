@@ -1,6 +1,6 @@
- Super-Store-Sales-Dashboard
+<img width="1314" height="734" alt="image" src="https://github.com/user-attachments/assets/9809b478-7e9c-4136-8388-ea9ce1fd6f78" /> Super-Store-Sales-Dashboard
 
- 📊 Super Store Sales & Forecasting Dashboard – Power BI
+ 📊 Super Store Sales & Forecasting Dashdboard – Power BI
  
  🚀 Project Overview
  
@@ -80,6 +80,22 @@
 
 
 
+📷 Dashboard Preview
+
+🔹 Sales Dashboard
+<img width="1314" height="734" alt="Screenshot 2026-03-01 004429" src="https://github.com/user-attachments/assets/049fa9dd-52fe-4969-8f6d-d54034e8bf64" />
+
+
+
+🔹 Sales Forecast Dashboard
+
+(Add your second screenshot here)
+
+After uploading images in GitHub, add like this:
+
+
+
+
 📊 Business Problem Statement
 
 • Retail businesses generate large volumes of transactional data.
@@ -127,6 +143,8 @@
 • Make data-driven strategic decisions
 
 • Anticipate future sales using forecasting
+
+
 
 
 
