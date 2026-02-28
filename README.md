@@ -89,9 +89,7 @@
 
 🔹 Sales Forecast Dashboard
 
-(Add your second screenshot here)
-
-After uploading images in GitHub, add like this:
+<img width="1285" height="721" alt="Screenshot 2026-03-01 004510" src="https://github.com/user-attachments/assets/6224abd2-6547-41db-8c57-1526563f1bf8" />
 
 
 
