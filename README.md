@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 Project Overview
+## 🚀 Look Project Overview
 
 This project showcases an interactive **Sales & Profit Analysis Dashboard** built using **Power BI**.
 
