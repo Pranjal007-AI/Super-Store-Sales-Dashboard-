@@ -1,4 +1,6 @@
-![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow)
+![Power BI]
+
+(https://img.shields.io/badge/Tool-Power%20BI-yellow)
 ![DAX](https://img.shields.io/badge/Language-DAX-blue)
 ![Analytics](https://img.shields.io/badge/Domain-Data%20Analytics-green)
 ![Forecasting](https://img.shields.io/badge/Feature-Time%20Series-orange)
